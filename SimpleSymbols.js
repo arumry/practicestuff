@@ -13,5 +13,5 @@ function SimpleSymbols(str) {
       }  
     }  
   }  
-  // code goes here  
   return result; 
+}
